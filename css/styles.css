@@ -1,0 +1,21 @@
+body {
+  margin-top: 40px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background: #00ff7f;
+}
+h1{
+	margin-top: 0;
+	background: #008000;
+	color: #ffffff;
+}
+
+#target {
+  font-size: 48px;
+  letter-spacing: .1em;
+  color: #0000ff;
+}
+
+#result{
+	color: #0000ff;
+}
