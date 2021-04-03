@@ -8,9 +8,9 @@
   }
 
   const words = [
-    'red',
-    'blue',
-    'pink',
+    'tree',
+    'leaf',
+    'sea',
   ];
   let word;
   let loc = 0;
